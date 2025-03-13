@@ -1,0 +1,2 @@
+# Apuntes-BI
+!er parcial
