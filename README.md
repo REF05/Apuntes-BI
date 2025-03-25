@@ -2,6 +2,8 @@
 1er parcial
 
 definicion de bi
+El BI utiliza datos para analizar el rendimiento empresarial y generar información que respalde la toma de decisiones estratégicas.
+Implica el uso de herramientas y procesos para transformar datos en conocimiento útil para mejorar la eficiencia y competitividad de una organización.
 
 sin bi se toman desiciones con intucion
 
