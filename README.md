@@ -1,5 +1,5 @@
-# Apuntes-BI
-1er parcial
+## Apuntes-BI
+# 1er parcial
 
 definicion de bi
 El BI utiliza datos para analizar el rendimiento empresarial y generar información que respalde la toma de decisiones estratégicas.
