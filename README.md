@@ -61,7 +61,8 @@ elementos de dashboard
 
 -colores y alertas visuales: que se usen colores que las personas identifican intuitivamente, que sean consistentes entre gráficos
 
-tipos de dashboars
+tipos de dashboars:
+
 -estrategico: para los altos mandos como direccion, se presenta de forma sencilla, lo mas resumido, indicadores barras lo mas sencillo, minimo de detalle posible
 
 
