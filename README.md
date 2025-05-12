@@ -49,11 +49,16 @@ visualizacion de fechas discretas -> segmentacion por periodos para comparar
  ""                     continua por color sigue la continuidad pero hace cortes por periodo (puede no se util si se quiere ver la liena completa)
  
 elementos de dashboard
--kpi: que se pueda saber si se cumple el objetivo
--graficos: saber el  historicode los datos (caidas o crecimientos)
+-kpi: que se pueda saber si se cumple el objetivo son siempre numeros
+
+-graficos: saber el  historico de los datos (caidas o crecimientos)
+
 -tablas resumen: deben ser tablas faciles de entender por eso son complementos pero sencillas resumidas
+
 -filtros o controles: analizar informacion en especial con condiciones especificas dentro del dashboard
+
 -titulos o etiquetas: que los titulos digan claramente lo que se muestra en la grafica
+
 -colores y alertas visuales: que se usen colores que las personas identifican intuitivamente, que sean consistentes entre gráficos
 
 tipos de dashboars
