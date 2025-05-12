@@ -63,8 +63,12 @@ elementos de dashboard
 
 tipos de dashboars
 -estrategico: para los altos mandos como direccion, se presenta de forma sencilla, lo mas resumido, indicadores barras lo mas sencillo, minimo de detalle posible
+
+
 analitico/táctico: un poco mayor de detalle pero tampoco técnico (nivel de detalle medio), para nivel gerencial y coordinacioó, para medir desempeño de un proyecto
-operativo: un nivel de detalle alto, quieren ver como esta la operacion en el momento, no usar gráficos sino tablas, almacen, operador, produccion
+
+
+operativo: un nivel de detalle alto, quieren ver como esta la operacion en el momento (datos en tiempo real), no usar gráficos sino tablas, almacen, operador, produccion
 
 hay un cuarto nivel por la necesidad de especializarte y el avance de la tecnologia en analizar para mejorar los procesos de la empresa y se necesita un equipo que se dedique excusivamente al analisis de datos en nivel de jerarquia estaria debajo del táctico.
 
