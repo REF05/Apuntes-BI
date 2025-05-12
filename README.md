@@ -75,7 +75,7 @@ hay un cuarto nivel por la necesidad de especializarte y el avance de la tecnolo
 
 7 puntos
 1. claridad: no dar por sentado que los usuarios saben
-2.  visual: destacar kpi usar negritas, organizar de arriba a abajo y de izquierda a derecha
+2. jerarquia visual: destacar kpi usar negritas, organizar de arriba a abajo y de izquierda a derecha
 3. agrupacion por proximidad: todo lo que esta relacionado esta cerca, dos graficas de un tema estan cerca
 4. consistencia visual: poner los mismos colores en todo el proyecto si es la misma variable
 5. color con proposito: darle un porque a los colores, lo que las personas estan acostumbradas por convencion
